@@ -1,0 +1,12 @@
+<application>
+  <component name="libraryTable">
+    <library name="lib">
+      <CLASSES>
+        <root url="file://D:/code/PPS/doc/账户管理/AutoServiceGenerator/lib" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://D:/code/PPS/doc/账户管理/AutoServiceGenerator/lib" recursive="false" />
+    </library>
+  </component>
+</application>

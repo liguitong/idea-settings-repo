@@ -1,0 +1,41 @@
+<application>
+  <component name="StatisticsStorage">
+    <option name="date" value="20200825" />
+    <option name="rules">
+      <list>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
+          <option name="criterionDescription" value="建议3.6 减少不必要的空行，保持代码紧凑" />
+          <option name="criterionMajorType" value="3.排版格式" />
+          <option name="criterionMinorType" value="建议3.6" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="2" />
+          <option name="checkDefectNum" value="2" />
+          <option name="criterionDescription" value="建议7.1 不要直接捕获受检异常的基类Exception" />
+          <option name="criterionMajorType" value="7.异常和日志" />
+          <option name="criterionMinorType" value="建议7.1" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="1" />
+          <option name="checkDefectNum" value="1" />
+          <option name="criterionDescription" value="规则7.2 方法抛出的异常，应该与本身的抽象层次相对应" />
+          <option name="criterionMajorType" value="7.异常和日志" />
+          <option name="criterionMinorType" value="规则7.2" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+        <RuleStatisticsItem>
+          <option name="checkCount" value="1" />
+          <option name="checkDefectNum" value="1" />
+          <option name="criterionDescription" value="建议5.4 构造方法如果参数较多，尽量重用" />
+          <option name="criterionMajorType" value="5.方法" />
+          <option name="criterionMinorType" value="建议5.4" />
+          <option name="criterionType" value="华为Java语言通用编程规范" />
+        </RuleStatisticsItem>
+      </list>
+    </option>
+  </component>
+</application>

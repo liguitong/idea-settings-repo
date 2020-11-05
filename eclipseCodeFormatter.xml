@@ -1,0 +1,16 @@
+<application>
+  <component name="EclipseCodeFormatterSettings">
+    <option name="settingsList">
+      <list>
+        <Settings>
+          <option name="formatter" value="ECLIPSE" />
+          <option name="id" value="1445386099578" />
+          <option name="importOrderConfigFilePath" value="D:/code/PPS/doc/learn/CodeFormat/CodeFormatter.xml" />
+          <option name="name" value="default" />
+          <option name="pathToConfigFileJava" value="D:/code/PPS/doc/learn/CodeFormat/CodeFormatter_v4.xml" />
+          <option name="selectedJavaProfile" value="CodeFormatter_v4" />
+        </Settings>
+      </list>
+    </option>
+  </component>
+</application>

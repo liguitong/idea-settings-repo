@@ -1,0 +1,11 @@
+<templateSet group="custom">
+  <template name="clsdoc" value="/**&#10; * 功能描述&#10; *&#10; * @author $author$&#10; * @since $YEAR$-$MONTH$-$DAY$&#10; */" description="生成class的JavaDoc模板" toReformat="false" toShortenFQNames="true">
+    <variable name="author" expression="user()" defaultValue="" alwaysStopAt="true" />
+    <variable name="YEAR" expression="date(&quot;YYYY&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="MONTH" expression="date(&quot;MM&quot;)" defaultValue="" alwaysStopAt="true" />
+    <variable name="DAY" expression="date(&quot;dd&quot;)" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_DECLARATION" value="true" />
+    </context>
+  </template>
+</templateSet>
